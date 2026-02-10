@@ -18,3 +18,9 @@ A Machine Learning web application that predicts a student's final exam score ba
 python3 -m streamlit run app.py
 # Student-Performance-Predictor
 Machine Learning project to predict student performance
+## How to Run Locally
+1. Clone the repository
+2. Install dependencies
+3. Run:
+python3 test_model.py
+
